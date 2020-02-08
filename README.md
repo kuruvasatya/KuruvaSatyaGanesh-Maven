@@ -1,5 +1,7 @@
 # kuruvaSatyaGanesh-Maven
 
+run App.java file
+
 Task content:
 
 Create a console application that satisfies the following requirements:
